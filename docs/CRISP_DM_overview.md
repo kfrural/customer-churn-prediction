@@ -1,7 +1,5 @@
 # CRISP-DM Overview
 
-# CRISP-DM Overview
-
 CRISP-DM (Cross Industry Standard Process for Data Mining) is a widely used methodology for data mining projects. It consists of six phases:
 
 1. **Business Understanding**
