@@ -153,17 +153,3 @@ Check the `dashboard/app.py` for the dashboard setup.
 - Extend dashboard for real-time monitoring of churn predictions.
 - Experiment with deep learning models for further improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-### **Key Improvements:**
-
-- **Project Structure**: Clear and organized, which shows a professional workflow.
-- **Detailed Workflow**: Each step of the process is described, which shows the recruiter's ability to follow data science methodology.
-- **Technologies and Instructions**: Explicit technologies and setup instructions show that the project can be easily replicated.
-- **Future Work**: Suggestions for future improvements demonstrate growth potential.
