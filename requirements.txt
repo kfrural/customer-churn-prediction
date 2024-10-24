@@ -1,17 +1,17 @@
 # Data Manipulation and Processing
-pandas==2.0.3
-numpy==1.23.5
+pandas
+numpy
 
 # Machine Learning
-scikit-learn==1.2.2
-xgboost==1.7.5
+scikit-learn
+xgboost
 
 # Visualization and Dashboard
-matplotlib==3.7.1
-seaborn==0.12.2
-plotly==5.15.0
-dash==2.12.1
+matplotlib
+seaborn
+plotly
+dash
 
 # Jupyter Notebooks
-jupyter==1.0.0
-ipython==8.14.0
+jupyter
+ipython
