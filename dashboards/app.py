@@ -4,7 +4,9 @@ import pandas as pd
 import plotly.express as px
 
 # Load the data
-df = pd.read_csv('../data/telecom_churn_data.csv')
+df = pd.read_csv('../data/processed_churn_data.csv')
+print(df.head())  # Verifica se os dados foram carregados corretamente
+print(df.columns)  # Lista todas as colunas no DataFrame
 
 # Create a Dash app
 app = dash.Dash(__name__)
